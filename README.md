@@ -1,6 +1,3 @@
-# bic21203-lab4a-javascript
-Lab 4a - Client-Side Scripting (JavaScript)
-
 # BIC21203 Lab 4a - JavaScript
 
 **Name:** Nurul Asyiqin 
@@ -24,7 +21,7 @@ A webpage that generates a numbered that list from 1 to 5 using a JavaScript for
 3. Open index.html using a web browser.
 
 ## Screenshots
-## All screenshot are stored in screenshot folder!!
+**All screenshot are stored in screenshot folder!!**
 **Question 1**: Shows the original message and the changed message after clicking the button.
 **Question 2**: Shows the number validator results for different inputs (5, 10, 15, abc, empty and decimal numnber (10.5))
 **Question 3**: Shows the generated list of numbers from 1 to 5 after clicking the Generate button.
